@@ -8,5 +8,5 @@ sequenceDiagram
     server -->> browser: HTML document
     deactivate server
 
-Note right of browser: only one request sent to the which server renders the html document to the browser
+Note right of browser: only one request sent to the server which renders the html document to the browser
 ```
